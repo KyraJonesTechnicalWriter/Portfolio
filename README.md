@@ -65,31 +65,31 @@ You can contact me via text or phone call at 801-895-6390. I can also be reached
 [Approving Additional Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/9d4828c55beebc0e9f309a72e0ade028dc579f72/internal%20documents/approvingbpacct.md)
 * One of the many systems we used at Cyprus Credit Union was “Bill Pay”. This system allowed our members to send payments electronically or as physical checks. This document walks the supervisor through the process of approving a second account on Bill Pay.
 
-[Automatic Payments](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Automatic%20Payments.pdf)
+[Automatic Payments](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Automatic%20Payments.pdf)
 * This document details each type of automatic payment that Cyprus offers. It explains how to identify these automatic payments with helpful pictures to assist the worker.
 
 [Bill Pay CU0C](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/9d4828c55beebc0e9f309a72e0ade028dc579f72/internal%20documents/billpaytransfer.md)
 * A CU0C was the term Cyprus used to express an account transfer. These took place after a member had their account number compromised and needed to change their account number. When this happened, the Contact Center had to transfer over any Bill Pay payees (the person/company that was being paid) to their new account. This document walks the supervisor through that process.
 
-[Closing Checklist](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Closing%20Checklist.pdf)
+[Closing Checklist](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Closing%20Checklist.pdf)
 * Each night one of my coworkers or I had to close our cash advance machine and ensure it was balanced. We also had to scan receipts and cashier check stubs into our document retrieval system, OnBase. This document details all the steps to the Contact Center closing procedures.
 
-[Common Declines in iQ](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Common%20Declines%20in%20iQ.pdf)
+[Common Declines in iQ](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Common%20Declines%20in%20iQ.pdf)
 * The card system that Cyprus Credit Union used was iQ. This document details the reason for a denial and why that denial occurred.
 
-[CPI](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/CPI.pdf)
+[CPI](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/CPI.pdf)
 * Collateral Protection Insurance, CPI, was an insurance billed to a member’s loan if they hadn’t provided Cyprus with proof of insurance. This was a common question the representatives in the Contact Center had and so I created this document to answer their questions.
 
-[External Account](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/External%20Account.pdf)
+[External Account](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/External%20Account.pdf)
 * This document provides the limits for external account transfers (transfers done to or from an account outside of Cyprus CU). It also provides instructions to use as reference when assisting a member with enrollment.
 
-[Mobile Deposits](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Mobile%20Deposits.pdf)
+[Mobile Deposits](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Mobile%20Deposits.pdf)
 * This document explains how to enroll in mobile deposit, the term used for check deposits done using a phone camera. It also goes over the the rules associated with it and the limits for mobile deposits.
 
-[Safe Deposit Boxes](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Safe%20Deposit%20Boxes.pdf)
+[Safe Deposit Boxes](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Safe%20Deposit%20Boxes.pdf)
 * This document answers all questions regarding Cyprus’ safety deposit boxes. Including how to check availability, costs, and sizes.
 
-[Shared Branching](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Shared%20Branching.pdf)
+[Shared Branching](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Shared%20Branching.pdf)
 * Shared Branching is the name of a network of credit unions that allow transactions to be done at a credit union that a member doesn’t belong to. For example, a member of Cyprus Credit Union could go to a Goldenwest Credit Union to complete a transaction on their account and vice versa. This document explains what Shared Branching is and troubleshoots potential issues.
 
 
@@ -99,14 +99,5 @@ You can contact me via text or phone call at 801-895-6390. I can also be reached
 [Adding Second Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/9d4828c55beebc0e9f309a72e0ade028dc579f72/member%20facing%20documents/additionalbpacct.md)
 * One of the many system we used at Cyprus Credit Union was “Bill Pay”. This system allowed our members to send payments electronically or as physical checks. This document walks our members through adding a secondary checking account to their Bill Pay account.
 
-[Uploading Document(s) Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Uploading%20Document(s)%20Instructions.pdf)
+[Uploading Document(s) Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/member%20facing%20documents/Uploading%20Document(s)%20Instructions.pdf)
 * Another system Cyprus used was “Citrix Sharefile”, which we sent files and received documents through. This document walks our members through uploading their documents via Citrix Sharefile.
-
-
-## Trainings
-> During my time at Cyprus Credit Union, I also created and presented trainings on many subjects. I have included two PowerPoint attachments for two unique systems that Cyprus used. If you would like to take a look, please do so.
-
-[Bill Pay](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Bill%20Pay.pptx)
-
-
-[Citrix ShareFile](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Citrix%20ShareFile.pptx)
