@@ -62,13 +62,13 @@ You can contact me via text or phone call at 801-895-6390. I can also be reached
 ## Internal Documentation
 > Most of the documents I created in the four years I worked at Cyprus were internal documents. Typically they detailed instructions on how to use our systems or important rules to keep in mind.
 
-[Approving Additional Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Approving%20Second%20Bill%20Pay%20Account%20Instructions.pdf)
+[Approving Additional Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/9d4828c55beebc0e9f309a72e0ade028dc579f72/internal%20documents/approvingbpacct.md)
 * One of the many systems we used at Cyprus Credit Union was “Bill Pay”. This system allowed our members to send payments electronically or as physical checks. This document walks the supervisor through the process of approving a second account on Bill Pay.
 
 [Automatic Payments](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Automatic%20Payments.pdf)
 * This document details each type of automatic payment that Cyprus offers. It explains how to identify these automatic payments with helpful pictures to assist the worker.
 
-[Bill Pay CU0C](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Bill%20Pay%20CU0C.pdf)
+[Bill Pay CU0C](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/9d4828c55beebc0e9f309a72e0ade028dc579f72/internal%20documents/billpaytransfer.md)
 * A CU0C was the term Cyprus used to express an account transfer. These took place after a member had their account number compromised and needed to change their account number. When this happened, the Contact Center had to transfer over any Bill Pay payees (the person/company that was being paid) to their new account. This document walks the supervisor through that process.
 
 [Closing Checklist](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Closing%20Checklist.pdf)
@@ -96,7 +96,7 @@ You can contact me via text or phone call at 801-895-6390. I can also be reached
 ## Member-Facing Documentation
 > Although I typically created documentation and trainings for my coworkers, I did create a few documents for our members. As our members were going to see the documents, I followed Cyprus Credit Union’s style guide and included the images used for letterheads.
 
-[Adding Second Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Adding%20Second%20Bill%20Pay%20Account%20Instructions.pdf)
+[Adding Second Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/9d4828c55beebc0e9f309a72e0ade028dc579f72/member%20facing%20documents/additionalbpacct.md)
 * One of the many system we used at Cyprus Credit Union was “Bill Pay”. This system allowed our members to send payments electronically or as physical checks. This document walks our members through adding a secondary checking account to their Bill Pay account.
 
 [Uploading Document(s) Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Uploading%20Document(s)%20Instructions.pdf)
