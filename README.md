@@ -14,7 +14,7 @@
 * Trainings
 
 # About Me
-<img src="https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/20220801_180040%20(2).jpg" alt="Me!" height=200px align=right>
+<img src="images\20220801_180040 (2).jpg" alt="Me!" height=200px align=right>
 Hello! I'm 23-yeras old and a full-time student at Weber State University. My major is English with an emphasis on Technical and Professional Writing and I am working on a Japanese minor as well. こんにちは！I'm also an aspiring Technical Writer. I worked at Cyprus Credit Union for about four years and during that time we underwent a core system change. I was one of the contact center leads who was in charge of learning the system and training my coworkers on it. While I was doing this, I discovered a love for technical documentation. At Cyprus, we were extremely limited with the systems we could use so I used Microsoft Word for all my documents. However, I'm constantly working to grow my knowledge and improve my techniques so I have done a lot of self-study. I am now familiar (albeit somewhat of a beginner) in various systems. See the Known Software/Systems section below to see which ones I have experience in.
 
 ## Jobs
@@ -62,7 +62,7 @@ You can contact me via text or phone call at 801-895-6390. I can also be reached
 ## Internal Documentation
 > Most of the documents I created in the four years I worked at Cyprus were internal documents. Typically they detailed instructions on how to use our systems or important rules to keep in mind.
 
-[Approving Second Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Approving%20Second%20Bill%20Pay%20Account%20Instructions.pdf)
+[Approving Additional Bill Pay Account Instructions](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Approving%20Second%20Bill%20Pay%20Account%20Instructions.pdf)
 * One of the many systems we used at Cyprus Credit Union was “Bill Pay”. This system allowed our members to send payments electronically or as physical checks. This document walks the supervisor through the process of approving a second account on Bill Pay.
 
 [Automatic Payments](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/main/Automatic%20Payments.pdf)
