@@ -28,15 +28,15 @@ There are two sections in this document: *Online Instructions*, and *Mobile App 
 1. Log into Home Banking and click on the *Transactions* button to expand its options. This button can be found along the left hand side of the screen.
 Then, click on *Bill Payment* and you will be taken to the Bill Pay screen as seen in the gif below. Please keep in mind that unless you have already set up payees, it may be blank.
 
-![Figure ](images/additionalacctbpfigurea.gif)
+![Figure ](../images/additionalacctbpfigurea.gif)
 
 2. Click on the gray *Options* button and then *Visit Bill Pay Site*. This should open another tab in your browser with the URL, billpaysite.com.
 
-![Figure ](images/additionalacctbpfigureb.gif)
+![Figure ](../images/additionalacctbpfigureb.gif)
 
 3.  Now, click on the button labelled *My account* which is the second to last button along the top of the page. Once there, you should see a box called *Pay from accounts*. Click on the *+ Add account* button.
 
-![Figure ](images/additionalacctbpfigurec.gif)
+![Figure ](../images/additionalacctbpfigurec.gif)
 
 4. There should be four fields that need to be filled out:
 
@@ -46,26 +46,26 @@ Then, click on *Bill Payment* and you will be taken to the Bill Pay screen as se
 
      After you have entered the information, click the gray *Next* button.
 
-![Figure ](images/additionalacctbpfigured.gif)
+![Figure ](../images/additionalacctbpfigured.gif)
 
 5. The next page will ask you to review the information. Once it is verified, click the gray *Submit* button. At this point, the account is waiting for approval.
 
-![Figure ](images/additionalacctbpfiguree.gif)
+![Figure ](../images/additionalacctbpfiguree.gif)
 
 ---
 
 ## Mobile App Instructions
 1. Log into Home Banking and click the *Bill Pay* button along the bottom of the screen. This will take you directly to the Bill Pay page in Home Banking.
 
-![Figure ](images/additionalacctbpfigureamobile.gif)
+![Figure ](../images/additionalacctbpfigureamobile.gif)
 
 2. Next, click on the gray *Options* button and click on *Visit Bill Pay Site*. This should open another page that says "Payments" at the top of the screen.
 
-![Figure ](images/additionalacctbpfigurebmobile.gif)
+![Figure ](../images/additionalacctbpfigurebmobile.gif)
 
 3. At the top right-hand corner of the screen, there are three horizontal lines. Click on this to expand the menu and choose the option, *My account*. You will then see a section called "Pay from accounts". Click the button labelled *+Add account*.
 
-![Figure ](images/additionalacctbpfigurecmobile.gif)
+![Figure ](../images/additionalacctbpfigurecmobile.gif)
 
 4. There should be four fields that need to be filled out:
 
@@ -76,7 +76,7 @@ Then, click on *Bill Payment* and you will be taken to the Bill Pay screen as se
     After you have entered the information, click the gray *Next* button.   
 5. The next page will ask you to review the information. Once it is verified, click the gray *Submit* button. At this point, the account is waiting for approval. 
 
-![Figure ](images/additionalacctbpfiguredmobile.gif)
+![Figure ](../images/additionalacctbpfiguredmobile.gif)
 
 ---
 
@@ -88,7 +88,7 @@ The processing of the additional account can take upwards of 3 business days. If
 ## Account Approval
 After the second account is approved, it will appear as one of the options in the drop-down box labelled *Pay from account* when you make a payment.
 
-![Figure ](images/accountapproved.gif)
+![Figure ](../images/accountapproved.gif)
 
 ---
 
