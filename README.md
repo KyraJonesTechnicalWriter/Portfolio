@@ -11,7 +11,6 @@
 2. [Samples](#Samples)
 * Internal Documentation
 * Member-Facing Documentation
-* Trainings
 
 # About Me
 <img src="images\20220801_180040 (2).jpg" alt="Me!" height=200px align=right>
