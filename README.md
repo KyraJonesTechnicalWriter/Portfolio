@@ -92,7 +92,7 @@ You can contact me via text or phone call at 801-895-6390. I can also be reached
 [Shared Branching](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Shared%20Branching.pdf)
 * Shared Branching is the name of a network of credit unions that allow transactions to be done at a credit union that a member doesn’t belong to. For example, a member of Cyprus Credit Union could go to a Goldenwest Credit Union to complete a transaction on their account and vice versa. This document explains what Shared Branching is and troubleshoots potential issues.
 
-[Style Guide](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/2ffdabf445ed2ed127632872a29d91cf84a74d73/internal%20documents/Cyprus%20Style%20Guide.pdf)
+[Style Guide](https://github.com/KyraJonesTechnicalWriter/Portfolio/blob/1bfd969541f70979ae6ab039e06d00a42abe785b/internal%20documents/Cyprus%20Style%20Guide.pdf)
 * This document is the style guide I created to ensure consistency in documents made by myself and others.
 
 ## Member-Facing Documentation
