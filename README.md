@@ -14,14 +14,14 @@
 
 # About Me
 <img src="images\20220801_180040 (2).jpg" alt="Me!" height=200px align=right>
-Hello! I'm 23-years old and a full-time student at Weber State University. My major is English with an emphasis on Technical and Professional Writing and I am working on a Japanese minor as well. こんにちは！I'm also an aspiring Technical Writer. I worked at Cyprus Credit Union for about four years and during that time we underwent a core system change. I was one of the contact center leads who was in charge of learning the system and training my coworkers on it. While I was doing this, I discovered a love for technical documentation. At Cyprus, we were extremely limited with the systems we could use so I used Microsoft Word for all my documents. However, I'm constantly working to grow my knowledge and improve my techniques so I have done a lot of self-study. I am now familiar (albeit somewhat of a beginner) in various systems. See the Known Software/Systems section below to see which ones I have experience with.
+Hello! I'm 23 years old and a full-time student at Weber State University. My major is English with an emphasis on Technical and Professional Writing, and I am also working on a Japanese minor. こんにちは！I worked at Cyprus Credit Union for about four years, and during that time, we underwent a core system change. I was one of the contact center leads in charge of learning the system and training my coworkers on it. While I was doing this, I discovered a love for technical documentation. At Cyprus CU, our systems were minimal, so I used Microsoft Word for all my documents. However, I'm constantly working to grow my knowledge and improve my techniques! Thank you for visiting my site. If you have any questions, please don't hesitate to email me at kyramjones@gmail.com.
 
 ## Jobs
 When: | Job Title: | Company:| Tasks:
 ---|---|---|---
-01/2024 to current | Demonstrator Support Agent | Stampin' Up | <li> Responsible for assisting demonstrators and customers over the phone with orders, policies, and other questions</li><li>Complete new orders, correction orders, and returns.</li><li>Place notes on customer and demonstrators accounts to ensure important information is shared with other employees.</li>
-07/2019 to 05/2023 | Contact Center Team Lead | Cyprus Credit Union | <li> Wrote over 100 trainings, procedures, technical documentation, and customer service chat presets for employees in the contact center. I also created a few instructional documents to provide to our members to assist them with various goals. </li> <li> Responsible for assisting my team in understanding and interpreting the information on the different computer systems we used. </li> <li> Assisted members of my team with questions and explained information to them both over text and in person. </li> <li> Responded to customer questions and requests in a prompt and efficient manner. </li> <li>  Assisted customers with their accounts and answered general questions through text and chat systems. </li> <li> Took calls when we were busy or when a member requested to speak with a supervisor. </li> <li>  Completed deposit verifications, faxed and emailed documents when required, organized information in spreadsheets, and worked to ensure an efficient work environment.</li>
-07/2018 to 07/2019 | Pet Care Associate | PetSmart Inc | <li> Processed transactions using cards and cash. </li> <li> Assisted customers with questions on pets and recommendations on products. </li> <li> Cleaned out cages and enclosures for various animals. </li> <li> Fed and distributed medicine to animals when needed. </li> 
+06/2023 to current | Gold Demonstrator Support Agent | Stampin' Up | <li> Responsible for assisting demonstrators and customers over the phone with orders, policies, and other questions.</li> <li> Place notes on customer and demonstrator accounts through our CMS tool to ensure critical information with other employees. </li> <li>Respond to emails and chats quickly and accurately.</li> <li>Trains new employees and answers questions from coworkers on the resource line.</li> <li>Occasionally assists the Marketing team with writing social media posts.</li>
+07/2019 to 05/2023 | Contact Center Team Lead | Cyprus Credit Union | <li> Wrote trainings, procedures, technical documents, customer service scripts, and messaging presets for the workers in the contact center. </li> <li> I assisted my team in understanding and interpreting the information on our different computer systems. </li> <li> Assisted my team members with questions or requests for additional information. </li> <li>I responded to customer questions and requests promptly and efficiently.</li> <li> I managed various customer service and administrative tasks to resolve customer issues thoroughly. </li> <li>Assisted customers with their accounts and general questions through text and chat. </li> <li>Took calls when escalated to a supervisor. </li> <li>Completed deposit verifications, faxed and emailed documents, organized information in spreadsheets, and assisted management in ensuring an efficient work environment. </li>
+07/2018 to 07/2019 | Pet Care Associate | PetSmart Inc | <li> Processed transactions using cards and cash. </li> <li> Assisted customers with questions on pets and product recommendations. </li> <li> Cleaned out cages and enclosures for various animals. </li> <li> Fed and administered medicine to animals. </li> 
 08/2016 to 05/2018 | Shift Leader | Yogurtland | <li> Processed transactions using cards and cash. </li> <li> Assisted customers with questions and recommendations on yogurt and toppings. </li> <li> Cleaned dishes and machines, prepared toppings, and placed orders. </li> 
 08/2015 to 04/2016 | Crew Member | McDonald's | <li> Processed transactions using cards and cash. </li> <li> Assisted customers with questions and recommendations. </li> <li> Cleaned dishes, kitchen, and bathroom. </li> <li> Took orders and assisted with food production. </li> 
 
@@ -32,13 +32,21 @@ When: | Where: | Degree:
 08/2017 to 05/2022 | Salt Lake Community College | Associate's Degree (completed)
 
 ## Skills
-* Detail-oriented
-* Exemplary verbal and written communication skills
-* Personable and willing to assist anyone in need.
-* Thinks outside the box
-* Efficient and dedicated
-* Excellent teamwork and collaboration skills.
-* Constantly improving outdated methods and documentation.
+*8+ years of experience with Microsoft products (Word, Excel, PowerPoint, etc.).
+*Accurate and precise writing style and always editing to improve clarity.
+*Constantly striving to enhance outdated methods and documentation.
+*Thinks outside the box. 
+*Fast typer: 80 WPM. 
+*Efficient and dedicated.
+*Excellent teamwork and collaboration skills.
+*Personable and willing to assist anyone in need.
+*Exemplary verbal and written communication skills.
+*Excellent ability to adapt to any situation.
+*Self-motivated and self-disciplined.
+*Able to manage many projects at once.
+*Well-organized and familiar with version control.
+*Career-focused.
+*Detail-oriented.
 
 ## Known Software/Systems
 * Microsoft Office Products (Word, Excel, PowerPoint)
